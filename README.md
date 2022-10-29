@@ -18,7 +18,3 @@ Trading Systems + Algorithms
 
 andyrsmith AT ( you know, that mail domain google uses :-) ).
 
-<!---
-smandy/smandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
